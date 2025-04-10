@@ -1,0 +1,16 @@
+# Node
+/pingcrm-frontend/node_modules
+/pingcrm-frontend/dist
+/pingcrm-frontend/.env
+
+# Python
+/pingcrm-backend/venv/
+/pingcrm-backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+/pingcrm-backend/.env
+
+# System
+.DS_Store
+.env
