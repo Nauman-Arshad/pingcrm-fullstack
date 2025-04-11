@@ -28,10 +28,10 @@ This is a fullstack rebuild of the **PingCRM** demo application using modern tec
 
 ## 🚀 Live Demo
 
-| Platform    | URL                                                                          |
-| ----------- | ---------------------------------------------------------------------------- |
-| Frontend    | [https://pingcrm-frontend.vercel.app](https://pingcrm-frontend.vercel.app)   |
-| Backend API | [https://pingcrm-backend.onrender.com](https://pingcrm-backend.onrender.com) |
+| Platform    | URL                                                                                          |
+| ----------- | -------------------------------------------------------------------------------------------- |
+| Frontend    | [https://pingcrm-frontend.vercel.app/contacts](https://pingcrm-frontend.vercel.app/contacts) |
+| Backend API | [https://pingcrm-backend.onrender.com](https://pingcrm-backend.onrender.com)                 |
 
 > 🔌 Database is connected via `.env` using Supabase/Neon connection string.
 
